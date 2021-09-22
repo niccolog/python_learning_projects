@@ -25,7 +25,7 @@ VW has 3/5 most popular cars. Mercedes and Audi are both out of the top 5, but M
 - Cars with no damage or at least no unrepaired damage sell at over 3x the price of cars with unrepaired damages;
 - All top cars have repaired price over 3x the damaged one as well, except for Opel Corsa ~2x
 
-# [Project 2 DataQuest: I-94 Traffic Indicators])https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Finding_Traffic_Indicators_I94/Traffic%20Indicators%20I-94.ipynb)
+# [Project 2 DataQuest: I-94 Traffic Indicators](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Finding_Traffic_Indicators_I94/Traffic%20Indicators%20I-94.ipynb)
 ## Project Description
 - Traffic data on I-94 between Minneapolis & St. Paul, incl. weather & holiday feature 2012-2018;
 - The goal of our analysis is to determine a few indicators of heavy traffic on I-94. These indicators can be weather type, time of the day, time of the week, etc. For instance, we may find out that the traffic is usually heavier in the summer or when it snows.
