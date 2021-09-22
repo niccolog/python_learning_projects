@@ -41,7 +41,10 @@ Time indicators
 - On business days, the rush hours are ~ 7 and 16.  
 ![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/i94_traffic_distro_monthly.png)
 ![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/i94_traffic_distro_day.png)
+
 Weather indicators (+)
 - Shower snow
 - Light rain and snow
 - Proximity thunderstorm with drizzle
+
+![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/i94_weather.png)
