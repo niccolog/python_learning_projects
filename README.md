@@ -1,7 +1,7 @@
 # python_learning_projects
 Repository for Python Projects related to Learning Data Science &amp; Python
 
-# Project 1 DataQuest: Exploring eBay Car Sales
+# [Project 1 DataQuest: Exploring eBay Car Sales](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Ebay_Car_Sales/DataQuest%20Guided%20Project%20-%20eBay%20Cars.ipynb)
 ## Project Description:
 - Analyzed the German Car Sales market on eBay: eBay Kleinanzeigen, a classifieds section of the German eBay website;
 - The dataset was originally scraped and uploaded to Kaggle by user orgesleka. The original dataset isn’t available on Kaggle anymore. You can find it via DataQuest
