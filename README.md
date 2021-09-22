@@ -48,3 +48,19 @@ Weather indicators (+)
 - Proximity thunderstorm with drizzle
 
 ![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/i94_weather.png)
+
+# Project 3 DataQuest: 
+## Project Description
+Data: 
+- Exit Surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.  
+
+Find hints at answering the following questions:
+- Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+- Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
+## Project Conclusions
+- Established and Veterans seems to have the largest % of unsatisfied in the service_cat column
+- We noticed a couple of patterns regarding age while analyzing data:
+  - Dete has greater unsatisfaction % across aall categories, with values over 60% in some categories
+  - Male employees are disproportionately more unsaftisfied in 60+ age band, while Female employees show the same in the 25 or younger age band
+  - Older employees are generally more unsatisfied
