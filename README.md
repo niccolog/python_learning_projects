@@ -23,7 +23,8 @@ The most common cars are:
 VW has 3/5 most popular cars. Mercedes and Audi are both out of the top 5, but Mercedes has two cars in top 10, as many as Opel and BMW, while Audi has only one.
 ### Repaired vs Damaged Cars
 - Cars with no damage or at least no unrepaired damage sell at over 3x the price of cars with unrepaired damages;
-- All top cars have repaired price over 3x the damaged one as well, except for Opel Corsa ~2x
+- All top cars have repaired price over 3x the damaged one as well, except for Opel Corsa ~2x.   
+![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/ebay_repaired_car_price.png)
 
 # [Project 2 DataQuest: I-94 Traffic Indicators](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Finding_Traffic_Indicators_I94/Traffic%20Indicators%20I-94.ipynb)
 ## Project Description
@@ -38,7 +39,8 @@ Time indicators
 - The traffic is usually heavier during the day
 - The traffic is usually heavier on business days compared to the weekends.
 - On business days, the rush hours are ~ 7 and 16.  
-
+![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/i94_traffic_distro_monthly.png)
+![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/i94_traffic_distro_day.png)
 Weather indicators (+)
 - Shower snow
 - Light rain and snow
