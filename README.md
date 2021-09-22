@@ -64,3 +64,6 @@ Find hints at answering the following questions:
   - Dete has greater unsatisfaction % across aall categories, with values over 60% in some categories
   - Male employees are disproportionately more unsaftisfied in 60+ age band, while Female employees show the same in the 25 or younger age band
   - Older employees are generally more unsatisfied
+![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/exit_survey_dete_tefe.png)
+![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/exit_survey_age_gender.png)
+![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/exit_surve_age_service.png)
