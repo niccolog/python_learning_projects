@@ -1,4 +1,4 @@
-# python_learning_projects
+# Python Learning Projects
 Repository for Python Projects related to Learning Data Science &amp; Python
 
 # [Project 1 DataQuest: Exploring eBay Car Sales](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Ebay_Car_Sales/DataQuest%20Guided%20Project%20-%20eBay%20Cars.ipynb)
