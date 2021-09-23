@@ -49,7 +49,7 @@ Weather indicators (+)
 
 ![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/i94_weather.png)
 
-# Project 3 DataQuest: 
+# [Project 3 DataQuest: I-94 Traffic Indicators](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Finding_Traffic_Indicators_I94/Traffic%20Indicators%20I-94.ipynb)
 ## Project Description
 Data: 
 - Exit Surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.  
