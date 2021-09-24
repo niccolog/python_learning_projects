@@ -75,11 +75,14 @@ This short project with Dataquest is designed to visualize Exchange Rates betwee
 
 ## Project Conclusions
 - EUR-USD under the Last Three complete President mandates
+![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/exchange_rates_usd.png)
 - EUR vs other European Currencies:
   - CHF and GBP have very negatively correlated trends, when one currency gets stronger vs EUR the other one gets weaker. Brexit does not seem to be playing a role in CHF vs GBP correlations.
   - SEK and NOK have very similar trends, the only difference is at the peak of the Financial Crisis and Sovereing Debt the Swedish currency lost more value vs EUR compared to NOK. Could it be because the Norwegian economy is considered more stable, being backed by the sovereign fund (oil funded)?
   - Brexit seems to be a major factor in GBP fluctuation vs EUR since 2016. Another check could be looking into correlations/trends between 2000 and 2015 only.
+![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/exchange_rates_eur_vs_other_eur_currencies.png)
 - EUR vs Main Asian Currencies:
   - SGD follows CNH in its fluctuations vs EUR almost 1:1.
   - KRW is pretty much independent from other Asian currencies behavior and
   - JPY has some correlation to CNH.
+![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/exchange_Rates_eur_vs_asian_currencies.png)
