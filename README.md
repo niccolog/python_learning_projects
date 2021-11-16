@@ -4,7 +4,7 @@ Repository for Python Projects related to Learning Data Science &amp; Python. Pr
 - Other Projects (Job Salary search with Ken Jee)
 - FIFA 22 Analysis
 
-# DataQuest Projects
+# [DataQuest Projects](https://github.com/niccolog/python_learning_projects/tree/main/DataQuest)
 # [Project 1 DataQuest: Exploring eBay Car Sales](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Ebay_Car_Sales/DataQuest%20Guided%20Project%20-%20eBay%20Cars.ipynb)
 ## Project Description:
 - Analyzed the German Car Sales market on eBay: eBay Kleinanzeigen, a classifieds section of the German eBay website;
@@ -91,6 +91,6 @@ This short project with Dataquest is designed to visualize Exchange Rates betwee
   - JPY has some correlation to CNH.
 ![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/exchange_Rates_eur_vs_asian_currencies.png)
 
-# Job Salary Search
+# [Job Salary Search](https://github.com/niccolog/python_learning_projects/tree/main/own_projects/Job_salary_search)
 
-# FIFA 22 Analysis
+# [FIFA 22 Analysis](https://github.com/niccolog/python_learning_projects/tree/main/own_projects/FIFA_22)
