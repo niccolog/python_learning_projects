@@ -33,6 +33,7 @@ We are initially interested in looking at:
 - Competitors
 ## Project Findings
 ![](https://github.com/niccolog/python_learning_projects/blob/main/own_projects/Job_salary_search/avg_salary_seattle.png)
+
 ![](https://github.com/niccolog/python_learning_projects/blob/main/own_projects/Job_salary_search/job_corr.png)
 ## Project Conclusions
 Based on the data observed a Sr Data Scientist should command at least a $160k base salary. Looking into specific skills did not flag any edge on salary.
