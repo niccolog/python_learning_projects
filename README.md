@@ -1,9 +1,9 @@
 # Python Learning Projects
 Repository for Python Projects related to Learning Data Science &amp; Python. Projects come from both sources like DataQuest or independent analysis on existing datasets.
 - DataQuest
-- Other Projects (Job Salary search with Ken Jee)
-- Kaggle projects
+- Job Salary
 - FIFA 22 Analysis
+- Kaggle projects
 
 # [DataQuest Projects](https://github.com/niccolog/python_learning_projects/tree/main/DataQuest)
 # [Project 1 DataQuest: Exploring eBay Car Sales](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Ebay_Car_Sales/DataQuest%20Guided%20Project%20-%20eBay%20Cars.ipynb)
@@ -93,6 +93,7 @@ This short project with Dataquest is designed to visualize Exchange Rates betwee
 ![](https://github.com/niccolog/python_learning_projects/blob/main/DataQuest/Images/exchange_Rates_eur_vs_asian_currencies.png)
 
 # [Job Salary Search](https://github.com/niccolog/python_learning_projects/tree/main/own_projects/Job_salary_search)
+Analysis on job market and salary for Data Analysts and Scientists following Ken Jee.
 
 # [FIFA 22 Analysis](https://github.com/niccolog/python_learning_projects/tree/main/own_projects/FIFA_22)
-Independent Analysis leveraging [Kaggle Dataset](https://www.kaggle.com/bryanb/fifa-player-stats-database)
+Independent Analysis leveraging [Kaggle Dataset](https://www.kaggle.com/bryanb/fifa-player-stats-database).
