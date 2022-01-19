@@ -4,7 +4,6 @@ Search the Star Wars Survey to see if Episode V is effectively regarded universa
 
 
 # Initial Conclusions
-#%% md
 ### Initial Conclusions
 - Fans and Males prefer the First Trilogy (release order) over the Second, with a pretty even distribution in movies watched;
 - Non-Fans and Females have a less
